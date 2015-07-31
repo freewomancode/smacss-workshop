@@ -6,7 +6,8 @@ Install npm
 
 ##### Linux environment
 
-    sudo npm install npm -g
+    sudo apt-get install npm
+
 
 ##### OSX environment
 
